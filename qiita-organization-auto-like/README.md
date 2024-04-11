@@ -3,6 +3,10 @@
 
 # Usage
 - Qiitaアカウントの設定画面でアクセストークンの取得する
+- ライブラリをインストールする
+```bash
+$ pip3 install -r requirements.txt
+```
 - Qiita OrganizationとACCESS_TOKENの環境変数にセットする
 ```bash
 $ export ORG_ID=xxx
